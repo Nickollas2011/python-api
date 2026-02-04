@@ -14,7 +14,12 @@ git commit -m "titulo para lembrar oque foi feito"
 git push
 ```
 
-# rodar o projeto 
+* observação power shell
+```
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+```
+
+# 4. rodar o projeto 
 * > abrar o terminal e rode o test.py
 ```
 python test.py
