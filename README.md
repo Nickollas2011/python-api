@@ -1,15 +1,15 @@
 ## sempre atualizar e salvar o projeto no git
-> * 1. Adicionar todos os arquivos novos ou modificados para area de stage( area de transferência ).
+> ### 1. Adicionar todos os arquivos novos ou modificados para area de stage( area de transferência ).
 ```
 git add .
 ```
 
-> * 2. Commit --> dar um nome para sua modificação atualização pegando data e hora.
+> ### 2. Commit --> dar um nome para sua modificação atualização pegando data e hora
 ```
 git commit -m "titulo para lembrar oque foi feito"
 ```
 
-> * 3. Push --> Envia para sua nuvem salva de fato no Repositório.
+> ### 3. Push --> Envia para sua nuvem salva de fato no Repositório.
 ```
 git push
 ```
@@ -19,7 +19,7 @@ git push
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 ```
 
-# 4. rodar o projeto 
+### 4. rodar o projeto 
 * > abrar o terminal e rode o test.py
 ```
 python test.py
